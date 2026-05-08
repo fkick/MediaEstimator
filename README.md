@@ -7,6 +7,8 @@ This repository is used **only** to track bugs, feature requests, and feedback f
 
 🚫 **Source code is not shared in this repository.**
 
+[Now Available on the App Store!](https://apps.apple.com/us/app/mediaestimator/id6762166959?mt=12)
+
 ---
 
 ## About the App
@@ -68,7 +70,7 @@ When reporting a bug, please include:
 
 ## TestFlight / App Store
 
-- TestFlight: Coming Soon!
+- [App Store Download Link](https://apps.apple.com/us/app/mediaestimator/id6762166959?mt=12)
 
 ---
 
