@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Media Estimator helps production teams estimate storage, media cards, shuttles, DIT time, proxies, and LTO archive needs before and during a shoot.">
+    <title>Media Estimator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="site-header">
+        <a class="brand" href="#top" aria-label="Media Estimator home">
+            <img class="brand-icon" src="assets/app-icon.png" alt="">
+            <span>Media Estimator</span>
+        </a>
+        <nav class="nav-links" aria-label="Primary navigation">
+            <a href="#workflow">Workflow</a>
+            <a href="#summaries">Summaries</a>
+            <a href="#pro">Pro</a>
+            <a href="privacy.html">Privacy</a>
+            <a href="https://github.com/fkick/MediaEstimator">GitHub</a>
+        </nav>
+    </header>
+
+    <main id="top">
+        <section class="hero">
+            <div class="hero-copy">
+                <img class="app-icon-large" src="assets/app-icon.png" alt="Media Estimator app icon.">
+                <p class="eyebrow">Production media planning for macOS</p>
+                <h1>Estimate the media before the shoot owns the day.</h1>
+                <p class="hero-text">Media Estimator turns schedules, camera formats, audio sources, shuttle workflows, proxy codecs, and LTO choices into practical storage and labor estimates for production and post.</p>
+                <div class="hero-actions">
+                    <a class="button primary" href="https://github.com/fkick/MediaEstimator">View on GitHub</a>
+                    <a class="button secondary" href="#screens">See screenshots</a>
+                </div>
+            </div>
+            <div class="hero-visual" aria-label="Media Estimator app screenshots">
+                <img class="hero-image hero-image-main" src="assets/screenshots/inputs-dark.png" alt="Media Estimator Inputs tab showing project setup, shoot day types, shuttle settings, and camera rows.">
+                <img class="hero-image hero-image-float" src="assets/screenshots/media-summary-light.png" alt="Media Estimator Media Summary showing calculated production storage estimates.">
+            </div>
+        </section>
+
+        <section class="metric-strip" aria-label="Media Estimator estimate categories">
+            <div>
+                <span>Raw</span>
+                <strong>TB totals</strong>
+            </div>
+            <div>
+                <span>Cards</span>
+                <strong>by type</strong>
+            </div>
+            <div>
+                <span>DIT</span>
+                <strong>offload time</strong>
+            </div>
+            <div>
+                <span>LTO</span>
+                <strong>archive counts</strong>
+            </div>
+        </section>
+
+        <section id="workflow" class="section split">
+            <div class="section-copy">
+                <p class="eyebrow">Inputs</p>
+                <h2>Model the shoot the way production talks about it.</h2>
+                <p>Create TV or film projects, define shoot day types, configure media shuttle capacity and speed, then add camera and audio rows for each day type. Estimates update as assumptions change.</p>
+                <ul class="feature-list">
+                    <li>Weekly or per-episode calculation basis</li>
+                    <li>Camera and audio source tracking</li>
+                    <li>Media card and shuttle reuse options</li>
+                    <li>Warnings when shoot day totals need attention</li>
+                </ul>
+            </div>
+            <div class="image-panel">
+                <img src="assets/screenshots/camera-audio-dark.png" alt="Camera and audio source inputs in Media Estimator.">
+            </div>
+        </section>
+
+        <section id="summaries" class="section">
+            <div class="section-heading">
+                <p class="eyebrow">Media Summary</p>
+                <h2>Readable numbers for storage, cards, labor, and archive planning.</h2>
+                <p>The Media Summary converts project assumptions into daily, period, and project totals that are easy to review with production, post, and the DIT team.</p>
+            </div>
+            <div class="feature-grid">
+                <article class="feature-card">
+                    <img src="assets/screenshots/media-cards-light.png" alt="Media cards needed by type table.">
+                    <h3>Card counts by type</h3>
+                    <p>Group card needs by format and capacity, with daily, period, and full project totals.</p>
+                </article>
+                <article class="feature-card">
+                    <img src="assets/screenshots/dit-time-light.png" alt="DIT processing time estimate.">
+                    <h3>DIT time estimates</h3>
+                    <p>Plan offload windows from media volume, card speed, shuttle speed, and copy count.</p>
+                </article>
+                <article class="feature-card">
+                    <img src="assets/screenshots/lto-light.png" alt="LTO tape archive estimate table.">
+                    <h3>LTO planning</h3>
+                    <p>Estimate archive tape counts for single-copy and dual-copy delivery workflows.</p>
+                </article>
+            </div>
+        </section>
+
+        <section id="screens" class="section showcase">
+            <div class="section-heading compact">
+                <p class="eyebrow">Inside the app</p>
+                <h2>Inputs, summary, and specs in one focused workspace.</h2>
+            </div>
+            <div class="screenshot-grid">
+                <img src="assets/screenshots/welcome-dark.png" alt="Media Estimator welcome screen.">
+                <img src="assets/screenshots/media-summary-light.png" alt="Media Estimator Media Summary full screen.">
+                <img src="assets/screenshots/spec-summary-light.png" alt="Media Estimator Spec Summary full screen.">
+            </div>
+        </section>
+
+        <section class="section split reverse">
+            <div class="section-copy">
+                <p class="eyebrow">Spec Summary</p>
+                <h2>Hand off camera and audio assumptions without rebuilding a spreadsheet.</h2>
+                <p>Review technical details by row, capture notes for workflow exceptions, and create clean print or PDF outputs for meetings, decks, and production documentation.</p>
+                <ul class="feature-list">
+                    <li>Camera specs with codec, wrapper, bitrate, card, and GB/hr</li>
+                    <li>Separate audio specs with format, sample rate, bit depth, and media needs</li>
+                    <li>General notes and row-level notes for context</li>
+                </ul>
+            </div>
+            <div class="print-pair" aria-label="Media Estimator PDF output previews">
+                <img src="assets/screenshots/media-summary-pdf.png" alt="Media Summary PDF preview.">
+                <img src="assets/screenshots/spec-summary-pdf.png" alt="Spec Summary PDF preview.">
+            </div>
+        </section>
+
+        <section id="pro" class="section pro-band">
+            <div>
+                <p class="eyebrow">Free and Pro</p>
+                <h2>Start with a small estimate. Unlock the full workflow when the job grows.</h2>
+            </div>
+            <div class="plans">
+                <article>
+                    <h3>Free</h3>
+                    <p>One active project, up to two camera or audio rows, and full access to view inputs, Media Summary, and Spec Summary.</p>
+                </article>
+                <article>
+                    <h3>Pro</h3>
+                    <p>Unlimited projects, unlimited rows, printing, and PDF export for Media Summary and Spec Summary deliverables.</p>
+                </article>
+            </div>
+        </section>
+
+        <section class="section privacy-callout">
+            <div>
+                <p class="eyebrow">Privacy</p>
+                <h2>Your project data stays on your device.</h2>
+                <p>Media Estimator does not collect personal information, usage analytics, diagnostics, tracking data, cookies, or payment details.</p>
+            </div>
+            <a class="button secondary light" href="privacy.html">Read the privacy policy</a>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <p>Media Estimator helps production teams estimate media requirements before and during a shoot.</p>
+        <nav aria-label="Footer navigation">
+            <a href="privacy.html">Privacy</a>
+            <a href="https://github.com/fkick/MediaEstimator">GitHub</a>
+        </nav>
+    </footer>
+</body>
+</html>
