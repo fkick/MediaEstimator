@@ -1,7 +1,7 @@
 ---
 name: Feature request - New Camera & Codec Support
 about: Suggest a new camera or media codec for support
-title: "[NEW CAMERA]"
+title: "[NEW CAMERA REQUEST]"
 labels: ''
 assignees: ''
 
