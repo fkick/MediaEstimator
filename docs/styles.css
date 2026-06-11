@@ -323,6 +323,47 @@ h3 {
     content: "•";
 }
 
+.camera-section {
+    background: #151b20;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+}
+
+.camera-request-button {
+    margin-top: 0.75rem;
+}
+
+.camera-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem;
+}
+
+.camera-group {
+    padding: 1rem;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: rgba(255, 255, 255, 0.035);
+}
+
+.camera-group-wide {
+    grid-column: span 2;
+}
+
+.camera-group h3 {
+    color: var(--accent-strong);
+}
+
+.camera-group ul {
+    display: grid;
+    gap: 0.35rem;
+    margin: 0;
+    padding: 0;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    list-style: none;
+}
+
 .image-panel,
 .feature-card,
 .print-pair img,
@@ -508,6 +549,10 @@ h3 {
     }
 
     .feature-grid,
+    .camera-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
     .screenshot-grid {
         grid-template-columns: 1fr;
     }
@@ -533,8 +578,13 @@ h3 {
 
     .metric-strip,
     .plans,
+    .camera-grid,
     .print-pair {
         grid-template-columns: 1fr;
+    }
+
+    .camera-group-wide {
+        grid-column: span 1;
     }
 
     .metric-strip div {
