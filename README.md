@@ -1,9 +1,9 @@
-# MediaEstimator
-<img width="450" height="450" alt="MediaEstimator-iOS-Default-1024x1024@1x" src="https://github.com/user-attachments/assets/57033505-01d8-471b-a4ab-68496dc84ab4" />
+# Media Estimator
+<img width="450" height="450" alt="Media Estimator-iOS-Default-1024x1024@1x" src="https://github.com/user-attachments/assets/57033505-01d8-471b-a4ab-68496dc84ab4" />
 
 </br>Issue tracker for Television &amp; Film production media estimation app for macOS.
 
-This repository is used **only** to track bugs, feature requests, and feedback for **MediaEstimator**, a macOS app built with **SwiftUI**.
+This repository is used **only** to track bugs, feature requests, and feedback for **Media Estimator**, a macOS app built with **SwiftUI**.
 
 🚫 **Source code is not shared in this repository.**
 
@@ -13,7 +13,7 @@ This repository is used **only** to track bugs, feature requests, and feedback f
 
 ## About the App
 
-MediaEstimator is a macOS app for media managers, DITs, and production management teams to plan and calculate their film and television production's storage requirements. Users can calculate camera media card allotments based on a number of professional camera and codec choices as well as estimate media management offload times based on the speeds of your backup shuttle medium.
+Media Estimator is a macOS app for media managers, DITs, and production management teams to plan and calculate their film and television production's storage requirements. Users can calculate camera media card allotments based on a number of professional camera and codec choices as well as estimate media management offload times based on the speeds of your backup shuttle medium.
 
 ---
 ## Features
@@ -79,4 +79,4 @@ When reporting a bug, please include:
 For private or sensitive feedback:
 - Email: testing@nerdypup.com
 
-Thanks for helping improve **MediaEstimator** 🙌
+Thanks for helping improve **Media Estimator** 🙌
