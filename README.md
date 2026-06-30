@@ -1,5 +1,5 @@
 # Media Estimator
-<img width="450" height="450" alt="Media Estimator-iOS-Default-1024x1024@1x" src="https://github.com/user-attachments/assets/57033505-01d8-471b-a4ab-68496dc84ab4" />
+<p align="center"><img width="450" height="450" alt="Media Estimator-iOS-Default-1024x1024@1x" src="https://github.com/user-attachments/assets/57033505-01d8-471b-a4ab-68496dc84ab4" /></p>
 
 </br>Issue tracker for Television &amp; Film production media estimation app for macOS.
 
