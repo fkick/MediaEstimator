@@ -33,13 +33,33 @@ Media Estimator is a macOS app for media managers, DITs, and production manageme
 
 ---
 ## Screenshots
+_Media Summary_
+<p align="center">  
+  <img alt="14 Media_Summary_light_v3" src="https://github.com/user-attachments/assets/43edb3db-c0d1-491e-a69c-4d8b54a4913f"/>
+  <img alt="14 Media_Summary_dark_v3" src="https://github.com/user-attachments/assets/0052e721-962f-460a-b550-0ec2f7adc3cc" />
+</p>
+  
+_Spec Summary_
+<p align="center">  
+  <img alt="27  Spec_Summary_light" src="https://github.com/user-attachments/assets/09a09c6a-d721-48fc-a29d-078515f2658f" />
+  <img alt="27  Spec_Summary_dark" src="https://github.com/user-attachments/assets/e3240a98-eecd-45c5-a2ff-43bd2d8b90a6" />
+</p>
 
-<p align="center">
-  <img width="2880" height="1800" alt="lightmode" src="https://github.com/user-attachments/assets/1838c204-3861-488f-b822-25f4be3304b2" />
-  <img width="2880" height="1800" alt="darkmode1" src="https://github.com/user-attachments/assets/b150393c-b504-4373-b9ce-295991f8326d" />
-  <img width="2880" height="1800" alt="darkmode2" src="https://github.com/user-attachments/assets/428f1d4e-013a-4d17-84d7-88ccfdd19de8" />
-  <img width="2880" height="1800" alt="darkmode3" src="https://github.com/user-attachments/assets/03e57f15-b4ea-4de6-a2dc-ab26d705efe2" />
-  <img width="2880" height="1800" alt="darkmode4" src="https://github.com/user-attachments/assets/33c8239f-8d97-4cba-ae9f-b2a17269539c" />
+_Inputs Tab_
+<p align="center">  
+  <img alt="3  Inputs Tab_light" src="https://github.com/user-attachments/assets/39468099-6bf5-48a1-821e-4cc34c075369" />
+  <img alt="3  Inputs Tab_dark" src="https://github.com/user-attachments/assets/d6bace5c-36ce-4480-9279-8a8b402bf41b" />
+</p>
+
+  _Printable Media Summary Report_
+<p align="center">  
+  <img alt="34 MediaSummary" src="https://github.com/user-attachments/assets/55f2ac36-04e3-449c-807e-8c088fa24066" />
+  <img alt="34 MediaSummaryp2" src="https://github.com/user-attachments/assets/22f43cf4-614d-4c9c-a71d-747ce72cc73b" />
+</p>
+
+  _Printable Spec One Sheet Summary For Production_
+<p align="center">  
+  <img alt="35 SpecSummary" src="https://github.com/user-attachments/assets/864329a3-9ede-4782-a809-a7aa57efbc83" />
 </p>
 
 ---
