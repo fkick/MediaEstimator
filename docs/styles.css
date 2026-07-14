@@ -279,6 +279,7 @@ h3 {
     grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
     gap: clamp(2rem, 6vw, 6rem);
     align-items: center;
+    
 }
 
 .split.reverse {
@@ -287,6 +288,11 @@ h3 {
 
 .split.reverse .section-copy {
     order: 2;
+}
+
+.split.light {
+    background: #e7f3fb;
+    color: var(--ink);
 }
 
 .section-copy,
@@ -431,6 +437,19 @@ h3 {
     background: white;
 }
 
+.app-window {
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+    filter: drop-shadow(0 24px 48px rgba(0, 0, 0, 0.28));
+}
+
+.screenshot-grid img.app-window {
+    background: transparent;
+    filter: none;
+}
+
 .print-pair {
     display: grid;
     grid-template-columns: 0.78fr 1fr;
@@ -440,6 +459,13 @@ h3 {
 
 .print-pair img {
     width: 100%;
+}
+
+.phone-pair img {
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
 }
 
 .pro-band {
